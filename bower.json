@@ -16,7 +16,7 @@
   },
   "ignore": [
     "*/.*",
-    "polymer-font-awesome.html",
+    "polymer-font-awesome.html.template",
     "build.js",
     "*.md"
   ]
